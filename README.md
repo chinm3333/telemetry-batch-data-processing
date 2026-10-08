@@ -13,9 +13,6 @@ npm start
 
 Server listens on `http://localhost:3000` (override with `PORT`).
 
-```bash
-npm run dev   # restart on file changes
-```
 
 ## Endpoints
 
