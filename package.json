@@ -1,0 +1,16 @@
+{
+  "name": "lane-telemetry",
+  "version": "1.0.0",
+  "description": "Telemetry ingestion and query service",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
